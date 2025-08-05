@@ -1,8 +1,3 @@
-<div>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=phgferreira&show_icons=true&include_all_commits=true&count_private=true&theme=merko" />
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phgferreira&include_all_commits=true&layout=compact&langs_count=7&theme=merko" />
-</div>
-
 ### Formas de contato
 <div>
     <a href="https://www.linkedin.com/in/paulo-ferreira-922137125/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
